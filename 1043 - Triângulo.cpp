@@ -35,6 +35,8 @@ int main(){
     } else{
         cout << "Area = " << calc << endl;
     }
+
+    return 0;
 }
 
 bool verifyTriangle(double a, double b, double c){
